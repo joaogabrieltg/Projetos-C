@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1601929604 source:w:\lpi\funcaodata\main.c
+	<stdio.h>
+	<stdlib.h>
+

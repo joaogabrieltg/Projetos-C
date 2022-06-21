@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1603228609 source:/home/joaogabrieltg/Documentos/LPI/estudo/main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcoes.h"
+
+1603228480 /home/joaogabrieltg/Documentos/LPI/estudo/funcoes.h
+
